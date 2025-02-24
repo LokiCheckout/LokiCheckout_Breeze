@@ -1,4 +1,4 @@
-# Yireo_LokiCheckoutEmpty
+# Yireo_LokiCheckoutBreeze
 
 **This is an add-on package to the LokiCheckout. It is only a dummy to kickstart new modules easily.**
 

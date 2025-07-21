@@ -1,12 +1,12 @@
 {
-    "name": "yireo/magento2-loki-checkout-breeze",
+    "name": "loki-checkout/magento2-breeze",
     "version": "0.0.1",
     "description": "N/A",
     "keywords": ["loki-theme"],
     "type": "magento2-module",
     "require": {
         "magento/framework": "^103.0",
-        "yireo/magento2-loki-checkout-luma": "~0.0"
+        "loki-checkout/magento2-luma": "~0.0"
     },
     "license": "OSL-3.0",
     "autoload": {
@@ -14,7 +14,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Yireo\\LokiCheckoutBreeze\\": ""
+            "LokiCheckout\\Breeze\\": ""
         }
     }
 }

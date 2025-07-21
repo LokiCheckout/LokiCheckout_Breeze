@@ -1,8 +1,8 @@
 {
     "modules": [
-        "Yireo_LokiCheckoutLuma",
-        "Yireo_LokiCheckout",
-        "Yireo_LokiComponents"
+        "LokiCheckout_Luma",
+        "LokiCheckout_Core",
+        "Loki_Components"
     ],
     "components": [],
     "config": [],

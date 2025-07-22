@@ -1,0 +1,7 @@
+{
+  "ignore": [
+    "LokiCheckout_Luma",
+    "Loki_Components",
+    "loki-checkout/magento2-luma"
+  ]
+}

@@ -3,9 +3,8 @@
     "version": "1.0.4",
     "description": "N/A",
     "keywords": [
-        "loki-theme",
         "loki-checkout",
-        "loki-checkout-theme"
+        "loki-checkout-category-theme"
     ],
     "type": "magento2-module",
     "require": {

@@ -1,7 +1,7 @@
 {
     "name": "loki-checkout/magento2-breeze",
     "version": "1.0.4",
-    "description": "N/A",
+    "description": "Enhancements for the Breeze theming engine",
     "keywords": [
         "loki-checkout",
         "loki-checkout-category-theme"

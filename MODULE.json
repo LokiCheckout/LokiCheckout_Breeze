@@ -1,8 +1,42 @@
 {
     "modules": [
-        "LokiCheckout_Luma",
         "LokiCheckout_Core",
-        "Loki_Components"
+        "LokiCheckout_Luma",
+        "Loki_Base",
+        "Loki_Components",
+        "Loki_CssUtils",
+        "Loki_FieldComponents",
+        "Magento_AdminNotification",
+        "Magento_Backend",
+        "Magento_Catalog",
+        "Magento_CatalogInventory",
+        "Magento_Checkout",
+        "Magento_CheckoutAgreements",
+        "Magento_Cms",
+        "Magento_Config",
+        "Magento_Csp",
+        "Magento_Customer",
+        "Magento_Directory",
+        "Magento_Eav",
+        "Magento_Indexer",
+        "Magento_MediaGalleryUiApi",
+        "Magento_Newsletter",
+        "Magento_Payment",
+        "Magento_Quote",
+        "Magento_Rule",
+        "Magento_Sales",
+        "Magento_SalesRule",
+        "Magento_SalesSequence",
+        "Magento_Shipping",
+        "Magento_Store",
+        "Magento_Tax",
+        "Magento_Theme",
+        "Magento_Ui",
+        "Magento_User",
+        "Magento_Variable",
+        "Magento_Vault",
+        "Magento_Widget",
+        "Yireo_CspUtilities"
     ],
     "components": [],
     "config": [],
@@ -10,8 +44,18 @@
     "module_name": "LokiCheckout_Breeze",
     "composer_name": "loki-checkout/magento2-breeze",
     "sequence": [
-        "LokiCheckout_Luma",
         "LokiCheckout_Core",
+        "LokiCheckout_Luma",
         "Loki_Components"
-    ]
+    ],
+    "php_versions": [
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4"
+    ],
+    "skip_magento_versions": [],
+    "skip_css_utils": false,
+    "phpcs_severity": 10,
+    "phpstan_level": 1
 }
